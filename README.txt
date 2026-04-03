@@ -100,3 +100,7 @@ NOTE TEHNICE
   - IDF = 0    : cuvintele din toate chunk-urile primesc scor 0
 
 ================================================================
+
+GOOGLE DOCS
+-----------
+https://docs.google.com/document/d/1qopbCFluXSVqExKEr-Zv8a710_VAoFUFB_QZAoj3ors/edit?usp=sharing
